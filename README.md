@@ -1,1 +1,1 @@
-# study-alura
+# repositório de estudos da Alura
